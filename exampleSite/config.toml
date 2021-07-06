@@ -1,24 +1,24 @@
 theme = "showfolio"
 languageCode = "en-us"
-baseurl = "https://example.com"
-title = "Showfolio Theme"
+baseurl = "https://daniloderosa.netlify.app"
+title = "Danilo De Rosa"
 
 
 [params]
-  name = "Showfolio Theme"
-  description = "Modern portfolio theme for your Hugo site."
-  author = "John Doe"
-  authorEmail = "name@example.com"
+  name = "Danilo De Rosa"
+  description = "Danilo De Rosa's work"
+  author = "Danilo De Rosa"
+  authorEmail = "danilo.derosa.dd@gmail.com"
   authorImage = "/photo.png"
   autoDarkMode = true
 
-  copyright = "Copyright © 2021 - John Doe · All rights reserved"
+  copyright = "Copyright © 2021 - Danilo De Rosa · All rights reserved"
   favicon = "favicon.ico"
 
 [params.homepage]
-  title = "Hey 👋 I'm John Doe"
-  tagline = "UX Designer and Product Lead"
-  description = "Develop functional user interfaces and provide a valuable experience to customers."
+  title = "Hey 👋 I'm Danilo De Rosa"
+  tagline = "Data editor"
+  description = "I research, clean, analyze and visualize data."
   contact = "https://twitter.com/"
 
 [params.homepage.codepen]
