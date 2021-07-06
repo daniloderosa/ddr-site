@@ -1,10 +1,10 @@
 # theme.toml template for a Hugo theme
 # See https://github.com/gohugoio/hugoThemes#themetoml for an example
 
-name = "Showfolio"
+name = "Danilo De Rosa"
 license = "MIT"
 licenselink = "https://github.com/apvarun/showfolio/blob/main/LICENSE"
-description = "Modern portfolio theme for your Hugo site."
+description = "Danilo De Rosa's work"
 homepage = "https://github.com/apvarun/showfolio"
 tags = ["Hugo", "theme", "portfolio", "modern", "responsive"]
 features = ["clean", "gallery", "minimal", "minimalist", "mobile", "personal", "responsive", "simple", "tailwind", "projects", "white"]
