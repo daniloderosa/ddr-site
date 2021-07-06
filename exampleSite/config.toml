@@ -9,11 +9,11 @@ title = "Danilo De Rosa"
   description = "Danilo De Rosa's work"
   author = "Danilo De Rosa"
   authorEmail = "danilo.derosa.dd@gmail.com"
-  authorImage = "/profile_pic.jpg"
+  authorImage = "/photo.png"
   autoDarkMode = true
 
   copyright = "Copyright © 2021 - Danilo De Rosa · All rights reserved"
-  favicon = "favicon-32x32.png"
+  favicon = "/favicon-32x32.png"
 
 [params.homepage]
   title = "Hey 👋 I'm Danilo De Rosa"
