@@ -25,12 +25,10 @@ title = "Danilo De Rosa"
   skills = ["Visual Design", "Product Development", "Data visualization"]
 
 [params.homepage.social]
-  twitter = "https://twitter.com/"
-  linkedin = "https://linkedin.com/in/"
-  github = "https://github.com/"
-  medium = "https://medium.com/"
-  reddit = "https://reddit.com/"
-  dribbble = "https://dribbble.com/"
+  twitter = "https://twitter.com/DaniloDeRosa96"
+  linkedin = "https://www.linkedin.com/in/danilo-derosa/"
+  github = "https://github.com/daniloderosa"
+  instagram = "https://www.instagram.com/danilo.derosa/"
 
 [build]
   writeStats = true
