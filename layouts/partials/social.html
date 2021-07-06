@@ -56,6 +56,33 @@
         </svg>
       </a>
     </li>
+    {{end}}{{with .Site.Params.homepage.social.instagram}}
+    <li>
+      <a
+        href="{{.}}"
+        target="_blank"
+        rel="noopener"
+        aria-label="Instagram"
+        class="p-2 inline-block rounded-full border border-gray-300 text-gray-300 hover:text-gray-800 hover:border-gray-800 cursor-pointer transition-colors dark:border-gray-600 dark:text-gray-600 dark:hover:border-gray-300 dark:hover:text-gray-300"
+      >
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          width="20"
+          height="20"
+          viewBox="0 0 24 24"
+          stroke-width="1.5"
+          stroke="currentColor"
+          fill="none"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        >
+          <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+          <path
+            d="M515.21,70A113.8,113.8,0,0,1,629,183.79V415.21A113.8,113.8,0,0,1,515.21,529H283.79A113.8,113.8,0,0,1,170,415.21V183.79A113.8,113.8,0,0,1,283.79,70H515.21m0-6H283.79A119.79,119.79,0,0,0,164,183.79V415.21A119.79,119.79,0,0,0,283.79,535H515.21A119.79,119.79,0,0,0,635,415.21V183.79A119.79,119.79,0,0,0,515.21,64Z"
+          />
+        </svg>
+      </a>
+    </li>
     {{end}} {{with .Site.Params.homepage.social.github}}
     <li>
       <a
