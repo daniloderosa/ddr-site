@@ -21,27 +21,8 @@ title = "Danilo De Rosa"
   description = "I research, clean, analyze and visualize data."
   contact = "https://twitter.com/"
 
-[params.homepage.codepen]
-  username = "apvarun"
-  pens = ["MQaRKL", "RxodrP", "BmXGdm", "wdVypQ"]
-
 [params.homepage.resume]
-  skills = ["Visual Design", "Product Development"]
-
-[[params.homepage.resume.work]]
-  name = "Google"
-  role = "Product Engineer"
-  duration = "Nov 2019 - Apr 2021"
-
-[[params.homepage.resume.work]]
-  name = "Amazon"
-  role = "Sr. UX Designer"
-  duration = "Jan 2016 - Oct 2019"
-
-[[params.homepage.resume.courses]]
-  name = "Design Principles"
-  provider = "UX Academy"
-  duration = "Nov 2019 - Jan 2020"
+  skills = ["Visual Design", "Product Development", "Data visualization"]
 
 [params.homepage.social]
   twitter = "https://twitter.com/"
