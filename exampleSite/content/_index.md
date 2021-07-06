@@ -1,7 +1,6 @@
 ---
 author: Danilo De Rosa
-title: Home 👋
+title: "Home \U0001F44B"
 date: 2021-04-24
----
 
-Let's try with some placeholder text! 
+---
