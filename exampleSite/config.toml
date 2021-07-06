@@ -13,13 +13,13 @@ title = "Danilo De Rosa"
   autoDarkMode = true
 
   copyright = "Copyright © 2021 - Danilo De Rosa · All rights reserved"
-  favicon = "/favicon-32x32.png"
+  favicon = "/favicon.ico"
 
 [params.homepage]
   title = "Hey 👋 I'm Danilo De Rosa"
   tagline = "Data editor"
   description = "I research, clean, analyze and visualize data."
-  contact = "https://twitter.com/"
+  contact = "https://twitter.com/DaniloDeRosa96"
 
 [params.homepage.resume]
   skills = ["Visual Design", "Product Development", "Data visualization"]
