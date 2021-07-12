@@ -17,7 +17,8 @@ title = "Danilo De Rosa"
 
 [params.homepage]
   title = "Hey 👋 I'm Danilo De Rosa"
-  tagline = "Data editor & \n Dataviz designer"
+  tagline1 = "Data editor &"
+  tagline2 = "Dataviz designer"
   description = "I research, clean, analyze and visualize data."
   contact = "https://twitter.com/DaniloDeRosa96"
 
