@@ -29,7 +29,6 @@ title = "Danilo De Rosa"
   linkedin = "https://www.linkedin.com/in/danilo-derosa/"
   instagram = "https://www.instagram.com/danilo.derosa/"
   github = "https://github.com/daniloderosa"
-  medium = "https://www.instagram.com/danilo.derosa/"
 
 [build]
   writeStats = true
