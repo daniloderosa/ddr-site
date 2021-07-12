@@ -17,13 +17,13 @@ title = "Danilo De Rosa"
 
 [params.homepage]
   title = "Hey 👋 I'm Danilo De Rosa"
-  tagline = "Data editor"
+  tagline = "Data editor & Dataviz designer"
   description = "I research, clean, analyze and visualize data."
   contact = "https://twitter.com/DaniloDeRosa96"
 
 [params.homepage.resume]
-  skills = ["Data visualization", "Data analysis"]
-  software = ["R", "RStudio", "Tableau", "D3", "Datawrapper", "QGIS"]
+  skills = ["Data visualization", "Data analysis", "Data journalism", "Workshops"]
+  software = ["R (RStudio)", "Tableau", "D3", "Datawrapper", "QGIS", "Adobe Illustrator"]
 
 [params.homepage.social]
   twitter = "https://twitter.com/DaniloDeRosa96"
