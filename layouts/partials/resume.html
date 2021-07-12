@@ -1,12 +1,4 @@
 <section class="my-4 max-w-5xl mx-auto">
-  <div class="text-3xl font-bold mb-8">Skills</div>
-
-    <!-- Skills -->
-    <div>
-      {{ range .Site.Params.homepage.resume.skills}}
-      <div class="text-xl font-light my-2">{{.}}</div>
-      {{end}}
-    </div>
   
   <div class="grid grid-cols-2 gap-4">
     <!-- Skills -->
@@ -20,9 +12,8 @@
     <!-- Software -->
     <div>
       <div class="text-3xl font-semibold mb-8">What I use</div>
-      {{ range .Site.Params.homepage.resume.skills}}
-      <div class="text-xl font-light my-2">R</div>
-      <div class="text-xl font-light my-2">Tableau</div>
+      {{ range .Site.Params.homepage.resume.software}}
+      <div class="text-xl font-light my-2">{{.}}</div>
       {{end}}
     </div>
   </div>
