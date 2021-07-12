@@ -22,7 +22,8 @@ title = "Danilo De Rosa"
   contact = "https://twitter.com/DaniloDeRosa96"
 
 [params.homepage.resume]
-  skills = ["Visual Design", "Product Development", "Data visualization"]
+  skills = ["Data visualization", "Data analysis"]
+  software = ["R", "RStudio", "Tableau", "D3", "Datawrapper", "QGIS"]
 
 [params.homepage.social]
   twitter = "https://twitter.com/DaniloDeRosa96"
