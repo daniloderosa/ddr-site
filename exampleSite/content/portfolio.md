@@ -13,11 +13,9 @@ When the title reports that the chart is interactive, you can click on it and ch
 
 Most of these charts are in italian (my native language): if you're not an italian speaker, I'm really sorry about that. I'm already working on uploading more charts in english. 
 
-<img src="https://raw.githubusercontent.com/daniloderosa/ddr-site/main/images/1-emissioni.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://public.tableau.com/app/profile/danilo6525/viz/AndamentodelleemissionidiPM10inFVG/Dashboard3', 'blank');" /> 
-
 ### Emission of PM10 during 2020 in Friuli-Venezia Giulia (*interactive*)
 
-[![](https://raw.githubusercontent.com/daniloderosa/ddr-site/main/images/1-emissioni.png)](https://public.tableau.com/app/profile/danilo6525/viz/AndamentodelleemissionidiPM10inFVG/Dashboard3)
+<img src="https://raw.githubusercontent.com/daniloderosa/ddr-site/main/images/1-emissioni.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://public.tableau.com/app/profile/danilo6525/viz/AndamentodelleemissionidiPM10inFVG/Dashboard3', 'blank');" /> 
 
 ***
 
@@ -35,7 +33,7 @@ Most of these charts are in italian (my native language): if you're not an itali
 
 ### Equality in the Olympic movement (*interactive*)
 
-[![](https://raw.githubusercontent.com/daniloderosa/ddr-site/main/images/4-winter.png)](https://public.tableau.com/app/profile/danilo6525/viz/WomenintheOlympicmovementMakeOverMonday2021W10/Dashboardwinter)
+<img src="https://raw.githubusercontent.com/daniloderosa/ddr-site/main/images/4-winter.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://public.tableau.com/app/profile/danilo6525/viz/WomenintheOlympicmovementMakeOverMonday2021W10/Dashboardwinter', 'blank');" /> 
 
 ***
 
@@ -45,9 +43,9 @@ Most of these charts are in italian (my native language): if you're not an itali
 
 ***
 
-### Excess deaths in people aged over 85 in Friuli-Venezia Giulia (Jan-Feb 2021)
+### Excess deaths in people aged over 85 in Friuli-Venezia Giulia (Jan-Feb 2021, *interactive*)
 
-[![](https://raw.githubusercontent.com/daniloderosa/ddr-site/main/images/6-decessi_over85.png)](https://datawrapper.dwcdn.net/SipUN/1/)
+<img src="https://raw.githubusercontent.com/daniloderosa/ddr-site/main/images/6-decessi_over85.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://datawrapper.dwcdn.net/SipUN/1/', 'blank');" /> 
 
 ***
 
@@ -65,7 +63,7 @@ Most of these charts are in italian (my native language): if you're not an itali
 
 ### Movement towards parks in Friuli-Venezia Giulia during 2020-2021 (*interactive*)
 
-[![](https://raw.githubusercontent.com/daniloderosa/ddr-site/main/images/9-parchi.png)](https://public.tableau.com/app/profile/danilo6525/viz/GoogleMobilityReportFVGParchiAprile2021/Dashboardparchi)
+<img src="https://raw.githubusercontent.com/daniloderosa/ddr-site/main/images/9-parchi.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://public.tableau.com/app/profile/danilo6525/viz/GoogleMobilityReportFVGParchiAprile2021/Dashboardparchi', 'blank');" /> 
 
 ***
 
