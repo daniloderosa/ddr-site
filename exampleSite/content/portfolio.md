@@ -13,10 +13,6 @@ When the title reports that the chart is interactive, you can click on it and ch
 
 Most of these charts are in italian (my native language): if you're not an italian speaker, I'm really sorry about that. I'm already working on uploading more charts in english. 
 
-<a href="https://public.tableau.com/app/profile/danilo6525/viz/AndamentodelleemissionidiPM10inFVG/Dashboard3">
-  <img src="https://raw.githubusercontent.com/daniloderosa/ddr-site/main/images/1-emissioni.png"> 
-</a>
-
 ### Emission of PM10 during 2020 in Friuli-Venezia Giulia (*interactive*)
 
 [![](https://raw.githubusercontent.com/daniloderosa/ddr-site/main/images/1-emissioni.png)](https://public.tableau.com/app/profile/danilo6525/viz/AndamentodelleemissionidiPM10inFVG/Dashboard3)
