@@ -17,37 +17,46 @@ Most of these charts are in italian (my native language): if you're not an itali
 
 [![](https://raw.githubusercontent.com/daniloderosa/ddr-site/main/images/1-emissioni.png)](https://public.tableau.com/app/profile/danilo6525/viz/AndamentodelleemissionidiPM10inFVG/Dashboard3)
 
+
 #### Excess deaths during November and December 2020 in the province of Pordenone 
 
 ![](https://raw.githubusercontent.com/daniloderosa/ddr-site/main/images/2-decessi_pn.png)
 
+
 #### New Covid-19 cases in Friuli-Venezia Giulia based on gender and age
 
-![](https://raw.githubusercontent.com/daniloderosa/ddr-site/main/images/3-positivi_età_sesso.png)
+![](https://raw.githubusercontent.com/daniloderosa/ddr-site/main/images/3-positivi_ageandgender.png)
+
 
 #### Equality in the Olympic movement (*interactive*)
 
 [![](https://raw.githubusercontent.com/daniloderosa/ddr-site/main/images/4-winter.png)](https://public.tableau.com/app/profile/danilo6525/viz/WomenintheOlympicmovementMakeOverMonday2021W10/Dashboardwinter)
 
+
 #### Vaccines doses in Friuli-Venezia Giulia subdivided on specific categories
 
 ![](https://raw.githubusercontent.com/daniloderosa/ddr-site/main/images/5-categorie_vaccini.png)
+
 
 #### Excess deaths in people aged over 85 in Friuli-Venezia Giulia (Jan-Feb 2021)
 
 [![](https://raw.githubusercontent.com/daniloderosa/ddr-site/main/images/6-decessi_over85.png)](https://datawrapper.dwcdn.net/SipUN/1/)
 
+
 #### Covid-19 cases in Friuli-Venezia Giulia's older people plummeted after the vaccination campaign
 
 ![](https://raw.githubusercontent.com/daniloderosa/ddr-site/main/images/7-casi_over80.png)
+
 
 #### Most produced crops in Europe during 2019
 
 ![](https://raw.githubusercontent.com/daniloderosa/ddr-site/main/images/8-thebig4.png)
 
+
 #### Movement towards parks in Friuli-Venezia Giulia during 2020-2021 (*interactive*)
 
 [![](https://raw.githubusercontent.com/daniloderosa/ddr-site/main/images/9-parchi.png)](https://public.tableau.com/app/profile/danilo6525/viz/GoogleMobilityReportFVGParchiAprile2021/Dashboardparchi)
+
 
 #### % of vaccinated in Friuli-Venezia Giulia (July 2021)
 
