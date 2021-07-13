@@ -3,6 +3,9 @@ languageCode = "en-us"
 baseurl = "https://daniloderosa.netlify.app"
 title = "Danilo De Rosa"
 
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [params]
   name = "Danilo De Rosa"
@@ -39,3 +42,6 @@ title = "Danilo De Rosa"
 [markup]
   [markup.highlight]
     style = "dracula"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
