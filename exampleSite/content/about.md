@@ -9,7 +9,7 @@ keywords:
 type: about
 
 ---
-**I am a data editor and data visualization designer based in Pordenone, Italy. I've been working with data for a couple of years, since when I ended my master's degree in Publishing and Journalism in Verona. I've moved gradually from classic written-journalism to data journalism and now data analysis / data science.** 
+**I am a data editor and data visualization designer based in Pordenone, Italy. I've been working with data for a couple of years, since I ended my master's degree in Publishing and Journalism in Verona. I've moved gradually from classic written-journalism to data journalism and now data analysis / data science.** 
 
 ### Data visualization (👉 check my [portfolio](https://daniloderosa.netlify.app/portfolio/))
 
