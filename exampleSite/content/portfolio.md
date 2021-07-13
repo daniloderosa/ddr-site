@@ -15,7 +15,7 @@ Most of these charts are in italian (my native language): if you're not an itali
 
 #### Emission of PM10 during 2020 in Friuli-Venezia Giulia (*interactive*)
 
-<img src="https://raw.githubusercontent.com/daniloderosa/ddr-site/main/images/1-emissioni.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://public.tableau.com/app/profile/danilo6525/viz/AndamentodelleemissionidiPM10inFVG/Dashboard3', 'blank');" /> 
+![](https://raw.githubusercontent.com/daniloderosa/ddr-site/main/images/1-emissioni.png) <img src="https://raw.githubusercontent.com/daniloderosa/ddr-site/main/images/1-emissioni.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://public.tableau.com/app/profile/danilo6525/viz/AndamentodelleemissionidiPM10inFVG/Dashboard3', 'blank');" /> 
 
 #### Excess deaths during November and December 2020 in the province of Pordenone 
 
