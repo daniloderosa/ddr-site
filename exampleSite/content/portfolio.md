@@ -20,3 +20,7 @@ Most of these charts are in italian (my native language): if you're not an itali
 #### Excess deaths during November and December 2020 in the province of Pordenone 
 
 <img src="https://raw.githubusercontent.com/daniloderosa/ddr-site/main/images/2-decessi_pn.png" onclick="window.open('https://public.tableau.com/app/profile/danilo6525/viz/AndamentodelleemissionidiPM10inFVG/Dashboard3', 'blank');" /> 
+
+##### Friends Chatting about Friends
+
+<img src="https://raw.githubusercontent.com/Z3tt/TidyTuesday/master/plots/2020_37/2020_37_Friends.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://raw.githubusercontent.com/Z3tt/TidyTuesday/master/plots/2019_37/2020_37_Friends.png', 'blank');"/>
