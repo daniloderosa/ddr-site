@@ -7,9 +7,12 @@ keywords: ["about-us", "about-hugo", "contact"]
 type: portfolio
 ---
 
-# About Me
+A glimpse of some dataviz I've realized both for work and for personal fun (often participating in challenges like [#TidyTuesday](https://github.com/rfordatascience/tidytuesday) and [#MakeoverMonday](https://www.makeovermonday.co.uk/)). 
 
-Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+When the title reports that the chart is interactive, you can click on it and check the interactive version on [my Tableau Public's profile](http://public.tableau.com/profile/danilo6525#!/).
 
-Hugo makes use of a variety of open source projects including:
+Most of these charts are in italian (my native language): if you're not an italian speaker, I'm really sorry about that. I'm already working on updating more charts in english. 
 
+#### Emission of PM10 during 2020 in Friuli-Venezia Giulia (*interactive*)
+
+<img src="https://raw.githubusercontent.com/daniloderosa/ddr-site/main/images/1-emissioni.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://public.tableau.com/app/profile/danilo6525/viz/AndamentodelleemissionidiPM10inFVG/Dashboard3', 'blank');" /> 
