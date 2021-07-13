@@ -19,8 +19,36 @@ Most of these charts are in italian (my native language): if you're not an itali
 
 #### Excess deaths during November and December 2020 in the province of Pordenone 
 
-<img src="https://raw.githubusercontent.com/daniloderosa/ddr-site/main/images/2-decessi_pn.png" onclick="window.open('https://public.tableau.com/app/profile/danilo6525/viz/AndamentodelleemissionidiPM10inFVG/Dashboard3', 'blank');" /> 
+![](https://raw.githubusercontent.com/daniloderosa/ddr-site/main/images/2-decessi_pn.png)
 
-##### Friends Chatting about Friends
+#### New Covid-19 cases in Friuli-Venezia Giulia based on gender and age
 
-<img src="https://raw.githubusercontent.com/Z3tt/TidyTuesday/master/plots/2020_37/2020_37_Friends.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://raw.githubusercontent.com/Z3tt/TidyTuesday/master/plots/2019_37/2020_37_Friends.png', 'blank');"/>
+![](https://raw.githubusercontent.com/daniloderosa/ddr-site/main/images/3-positivi_età_sesso.png)
+
+#### Equality in the Olympic movement (*interactive*)
+
+[![](https://raw.githubusercontent.com/daniloderosa/ddr-site/main/images/4-winter.png)](https://public.tableau.com/app/profile/danilo6525/viz/WomenintheOlympicmovementMakeOverMonday2021W10/Dashboardwinter)
+
+#### Vaccines doses in Friuli-Venezia Giulia subdivided on specific categories
+
+![](https://raw.githubusercontent.com/daniloderosa/ddr-site/main/images/5-categorie_vaccini.png)
+
+#### Excess deaths in people aged over 85 in Friuli-Venezia Giulia (Jan-Feb 2021)
+
+[![](https://raw.githubusercontent.com/daniloderosa/ddr-site/main/images/6-decessi_over85.png)](https://datawrapper.dwcdn.net/SipUN/1/)
+
+#### Covid-19 cases in Friuli-Venezia Giulia's older people plummeted after the vaccination campaign
+
+![](https://raw.githubusercontent.com/daniloderosa/ddr-site/main/images/7-casi_over80.png)
+
+#### Most produced crops in Europe during 2019
+
+![](https://raw.githubusercontent.com/daniloderosa/ddr-site/main/images/8-thebig4.png)
+
+#### Movement towards parks in Friuli-Venezia Giulia during 2020-2021 (*interactive*)
+
+[![](https://raw.githubusercontent.com/daniloderosa/ddr-site/main/images/9-parchi.png)](https://public.tableau.com/app/profile/danilo6525/viz/GoogleMobilityReportFVGParchiAprile2021/Dashboardparchi)
+
+#### % of vaccinated in Friuli-Venezia Giulia (July 2021)
+
+![](https://raw.githubusercontent.com/daniloderosa/ddr-site/main/images/10-pop_vaccinata.png)
