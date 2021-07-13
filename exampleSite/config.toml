@@ -3,10 +3,6 @@ languageCode = "en-us"
 baseurl = "https://daniloderosa.netlify.app"
 title = "Danilo De Rosa"
 
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-
 [params]
   name = "Danilo De Rosa"
   description = "Danilo De Rosa's work"
