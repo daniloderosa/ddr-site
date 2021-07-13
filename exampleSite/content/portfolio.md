@@ -11,62 +11,62 @@ A glimpse of some dataviz I've realized both for work and for personal fun (ofte
 
 When the title reports that the chart is interactive, you can click on it and check the interactive version on [my Tableau Public's profile](http://public.tableau.com/profile/danilo6525#!/).
 
-Most of these charts are in italian (my native language): if you're not an italian speaker, I'm really sorry about that. I'm already working on updating more charts in english. 
+Most of these charts are in italian (my native language): if you're not an italian speaker, I'm really sorry about that. I'm already working on uploading more charts in english. 
 
-#### Emission of PM10 during 2020 in Friuli-Venezia Giulia (*interactive*)
+### Emission of PM10 during 2020 in Friuli-Venezia Giulia (*interactive*)
 
 [![](https://raw.githubusercontent.com/daniloderosa/ddr-site/main/images/1-emissioni.png)](https://public.tableau.com/app/profile/danilo6525/viz/AndamentodelleemissionidiPM10inFVG/Dashboard3)
 
 ***
 
-#### Excess deaths during November and December 2020 in the province of Pordenone 
+### Excess deaths during November and December 2020 in the province of Pordenone 
 
 ![](https://raw.githubusercontent.com/daniloderosa/ddr-site/main/images/2-decessi_pn.png)
 
 ***
 
-#### New Covid-19 cases in Friuli-Venezia Giulia based on gender and age
+### New Covid-19 cases in Friuli-Venezia Giulia based on gender and age
 
 ![](https://raw.githubusercontent.com/daniloderosa/ddr-site/main/images/3-positivi_ageandgender.png)
 
 ***
 
-#### Equality in the Olympic movement (*interactive*)
+### Equality in the Olympic movement (*interactive*)
 
 [![](https://raw.githubusercontent.com/daniloderosa/ddr-site/main/images/4-winter.png)](https://public.tableau.com/app/profile/danilo6525/viz/WomenintheOlympicmovementMakeOverMonday2021W10/Dashboardwinter)
 
 ***
 
-#### Vaccines doses in Friuli-Venezia Giulia subdivided on specific categories
+### Vaccines doses in Friuli-Venezia Giulia subdivided on specific categories
 
 ![](https://raw.githubusercontent.com/daniloderosa/ddr-site/main/images/5-categorie_vaccini.png)
 
 ***
 
-#### Excess deaths in people aged over 85 in Friuli-Venezia Giulia (Jan-Feb 2021)
+### Excess deaths in people aged over 85 in Friuli-Venezia Giulia (Jan-Feb 2021)
 
 [![](https://raw.githubusercontent.com/daniloderosa/ddr-site/main/images/6-decessi_over85.png)](https://datawrapper.dwcdn.net/SipUN/1/)
 
 ***
 
-#### Covid-19 cases in Friuli-Venezia Giulia's older people plummeted after the vaccination campaign
+### Covid-19 cases in Friuli-Venezia Giulia's older people plummeted after the vaccination campaign
 
 ![](https://raw.githubusercontent.com/daniloderosa/ddr-site/main/images/7-casi_over80.png)
 
 ***
 
-#### Most produced crops in Europe during 2019
+### Most produced crops in Europe during 2019
 
 ![](https://raw.githubusercontent.com/daniloderosa/ddr-site/main/images/8-thebig4.png)
 
 ***
 
-#### Movement towards parks in Friuli-Venezia Giulia during 2020-2021 (*interactive*)
+### Movement towards parks in Friuli-Venezia Giulia during 2020-2021 (*interactive*)
 
 [![](https://raw.githubusercontent.com/daniloderosa/ddr-site/main/images/9-parchi.png)](https://public.tableau.com/app/profile/danilo6525/viz/GoogleMobilityReportFVGParchiAprile2021/Dashboardparchi)
 
 ***
 
-#### % of vaccinated in Friuli-Venezia Giulia (July 2021)
+### % of vaccinated in Friuli-Venezia Giulia (July 2021)
 
 ![](https://raw.githubusercontent.com/daniloderosa/ddr-site/main/images/10-pop_vaccinata.png)
