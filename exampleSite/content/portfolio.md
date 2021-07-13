@@ -4,7 +4,7 @@ title: Portfolio
 date: 2021-04-24
 description:
 keywords: ["about-us", "about-hugo", "contact"]
-type: portfolio
+type: about
 ---
 
 A glimpse of some dataviz I've realized both for work and for personal fun (often participating in challenges like [#TidyTuesday](https://github.com/rfordatascience/tidytuesday) and [#MakeoverMonday](https://www.makeovermonday.co.uk/)). 
