@@ -17,6 +17,8 @@ Most of these charts are in italian (my native language): if you're not an itali
 
 ![](https://raw.githubusercontent.com/daniloderosa/mrrobot-ratings/main/MrRobot.png)
 
+***
+
 ### Emission of PM10 during 2020 in Friuli-Venezia Giulia (*interactive*)
 
 <img src="https://raw.githubusercontent.com/daniloderosa/ddr-site/main/images/1-emissioni.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://public.tableau.com/app/profile/danilo6525/viz/AndamentodelleemissionidiPM10inFVG/Dashboard3', 'blank');" /> 
