@@ -70,7 +70,9 @@ theme_update(
 ```
 
 </details>
+
 &nbsp;
+  
 # Who speaks the most?
 
 Let’s start with some easy stuff: how are the lines distributed between
