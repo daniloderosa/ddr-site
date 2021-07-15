@@ -70,7 +70,7 @@ theme_update(
 ```
 
 </details>
-
+&nbsp;
 # Who speaks the most?
 
 Let’s start with some easy stuff: how are the lines distributed between
@@ -138,7 +138,7 @@ pdftools::pdf_convert(pdf = glue::glue("{path}.pdf"),
 
  
 
-![plots/Most_lines_per_season.png](https://raw.githubusercontent.com/daniloderosa/theofficeanalysis/main/plots/Most_lines_per_season.png) 
+![https://github.com/daniloderosa/theofficeanalysis/blob/main/plots/Most_lines_per_season.png](https://raw.githubusercontent.com/daniloderosa/theofficeanalysis/main/plots/Most_lines_per_season.png) 
   Ok, as you’ve probably guessed if
 you’re a fan of the series, Michael speaks *a lot*. Almost 1 line every
 3 is said by the World best boss (😉). Andy is the character with most
