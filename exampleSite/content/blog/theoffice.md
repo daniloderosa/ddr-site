@@ -6,9 +6,6 @@ description: "An analysis of The Office's dialogues"
 tags: ["data analysis"]
 ---
 
-Analyzing The Office’s dialogues
-================
-
 
 I stumbled acroos an R package named ‘schrute’ that is basically a
 dataset with all the dialogues in The Office, one of my favourite TV
