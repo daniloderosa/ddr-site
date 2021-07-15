@@ -1,4 +1,6 @@
 ---
 label: blog
-hide_body: true
+hide_body: false
 fields: []
+pages:
+- exampleSite/content/blog/The Office.md
