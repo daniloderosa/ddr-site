@@ -2,7 +2,7 @@
 author: "Danilo De Rosa"
 title: "Analyzing The Office’s dialogues"
 date: 2021-07-15
-description: "An analysis of The Office's dialogues"
+description: "Five charts (made with R and ggplot2) that analyze The Office's dialogues"
 tags: ["data analysis"]
 ---
 
@@ -71,8 +71,6 @@ theme_update(
 
 </details>
 
-&nbsp;
-  
 # Who speaks the most?
 
 Let’s start with some easy stuff: how are the lines distributed between
@@ -140,9 +138,9 @@ pdftools::pdf_convert(pdf = glue::glue("{path}.pdf"),
 
  
 
-![](plots/Most_lines_per_season.png) Ok, as you’ve probably guessed if
+![](https://raw.githubusercontent.com/daniloderosa/theofficeanalysis/main/plots/Most_lines_per_season.png) Ok, as you’ve probably guessed if
 you’re a fan of the series, Michael speaks *a lot*. Almost 1 line every
-3 is said by the World best boss ( ;) ). Andy is the character with most
+3 is said by the World best boss (😉). Andy is the character with most
 lines in season 8, which is reasonable since he becomes the regional
 manager.
 
@@ -199,7 +197,7 @@ pdftools::pdf_convert(pdf = glue::glue("{path}.pdf"),
 
 </details>
 
-  ![](plots/Most_cited_words.png)
+  ![](https://raw.githubusercontent.com/daniloderosa/theofficeanalysis/main/plots/Most_cited_words.png)
 
 Names everywhere, as I said! Anyway, we can find some nice stuff: in
 season 1 the 10th most said word is *downsizing*, which is a recurring
@@ -264,7 +262,7 @@ pdftools::pdf_convert(pdf = glue::glue("{path}.pdf"),
 
 </details>
 
-  ![](plots/tf_idf.png) Obviously the td-idf doesn’t mean that a word is
+  ![](https://raw.githubusercontent.com/daniloderosa/theofficeanalysis/main/plots/tf_idf.png) Obviously the td-idf doesn’t mean that a word is
 *exclusive* to that character. Instead, it’s useful to see which are the
 strangest words: take for example Ryan and you’ll find *wuphf*, or
 *awesome* by Kevin. The third most unique word said by Dwight is
@@ -345,12 +343,12 @@ pdftools::pdf_convert(pdf = glue::glue("{path}.pdf"),
 
 </details>
 
-  ![](plots/Sentiment.png)
+  ![](https://raw.githubusercontent.com/daniloderosa/theofficeanalysis/main/plots/Sentiment.png)
 
 Ha! Before looking at this, I would have probably said that Erin was the
 most positive character. She’s second, behind Jim! Stanley is the most
 negative, probably because he said a lot of times that he just doesn’t
-want to work :).
+want to work 😅.
 
 I’m actually surprised to see that Dwight is the 2nd most negative
 character, but this is explainable via the sentiment-dictionary that I
@@ -419,6 +417,6 @@ pdftools::pdf_convert(pdf = glue::glue("{path}.pdf"),
 
 </details>
 
-  ![](plots/That's%20what%20she%20said.png)
+  ![](https://raw.githubusercontent.com/daniloderosa/theofficeanalysis/main/plots/That's%20what%20she%20said.png)
 
 I think I’m quite pleased with the result.
