@@ -426,6 +426,6 @@ pdftools::pdf_convert(pdf = glue::glue("{path}.pdf"),
   
 &nbsp;
 
-<img src="https://raw.githubusercontent.com/daniloderosa/theofficeanalysis/main/plots/That's%20what%20she%20said.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://raw.githubusercontent.com/daniloderosa/theofficeanalysis/main/plots/That's%20what%20she%20said.png', 'blank');"/> 
+<img src="https://raw.githubusercontent.com/daniloderosa/theofficeanalysis/main/plots/That's%20what%20she%20said.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://raw.githubusercontent.com/daniloderosa/theofficeanalysis/main/plots/Sentiment.png', 'blank');"/> 
 
 I think I’m quite pleased with the result.
