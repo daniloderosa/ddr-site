@@ -14,7 +14,9 @@ series. So I thought: let’s give it a try!
 You can find the R code by expanding where it says so: I’ve tried to
 comment most of it, but you’ll find something without comment. If you
 have any doubt or you’re just curious about that specific chunk, feel
-free to [contact me](mailto:danilo.derosa.dd@gmail.com)!
+free to [contact me](mailto:danilo.derosa.dd@gmail.com)! 
+
+*You can click on any plot to see it in high quality*
 
 <details>
 <summary>
@@ -138,7 +140,6 @@ pdftools::pdf_convert(pdf = glue::glue("{path}.pdf"),
 
 <img src="https://raw.githubusercontent.com/daniloderosa/theofficeanalysis/main/plots/Most_lines_per_season.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://raw.githubusercontent.com/daniloderosa/theofficeanalysis/main/plots/Most_lines_per_season.png', 'blank');"/> 
 
-![https://github.com/daniloderosa/theofficeanalysis/blob/main/plots/Most_lines_per_season.png](https://raw.githubusercontent.com/daniloderosa/theofficeanalysis/main/plots/Most_lines_per_season.png) 
   Ok, as you’ve probably guessed if
 you’re a fan of the series, Michael speaks *a lot*. Almost 1 line every
 3 is said by the World best boss (😉). Andy is the character with most
@@ -198,7 +199,8 @@ pdftools::pdf_convert(pdf = glue::glue("{path}.pdf"),
 
 </details>
 
-  ![plots/Most_cited_words.png](https://raw.githubusercontent.com/daniloderosa/theofficeanalysis/main/plots/Most_cited_words.png)
+<img src="https://raw.githubusercontent.com/daniloderosa/theofficeanalysis/main/plots/Most_cited_words.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://raw.githubusercontent.com/daniloderosa/theofficeanalysis/main/plots/Most_cited_words.png', 'blank');"/> 
+  
 
 Names everywhere, as I said! Anyway, we can find some nice stuff: in
 season 1 the 10th most said word is *downsizing*, which is a recurring
@@ -263,7 +265,9 @@ pdftools::pdf_convert(pdf = glue::glue("{path}.pdf"),
 
 </details>
 
-  ![plots/tf_idf.png](https://raw.githubusercontent.com/daniloderosa/theofficeanalysis/main/plots/tf_idf.png) Obviously the td-idf doesn’t mean that a word is
+<img src="https://raw.githubusercontent.com/daniloderosa/theofficeanalysis/main/plots/tf_idf.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://raw.githubusercontent.com/daniloderosa/theofficeanalysis/main/plots/tf_idf.png', 'blank');"/> 
+
+Obviously the td-idf doesn’t mean that a word is
 *exclusive* to that character. Instead, it’s useful to see which are the
 strangest words: take for example Ryan and you’ll find *wuphf*, or
 *awesome* by Kevin. The third most unique word said by Dwight is
@@ -344,7 +348,7 @@ pdftools::pdf_convert(pdf = glue::glue("{path}.pdf"),
 
 </details>
 
-  ![plots/Sentiment.png](https://raw.githubusercontent.com/daniloderosa/theofficeanalysis/main/plots/Sentiment.png)
+  <img src="https://raw.githubusercontent.com/daniloderosa/theofficeanalysis/main/plots/Sentiment.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://raw.githubusercontent.com/daniloderosa/theofficeanalysis/main/plots/Sentiment.png', 'blank');"/> 
 
 Ha! Before looking at this, I would have probably said that Erin was the
 most positive character. She’s second, behind Jim! Stanley is the most
@@ -418,6 +422,6 @@ pdftools::pdf_convert(pdf = glue::glue("{path}.pdf"),
 
 </details>
 
-  ![plots/That's%20what%20she%20said.png](https://raw.githubusercontent.com/daniloderosa/theofficeanalysis/main/plots/That's%20what%20she%20said.png)
+<img src="https://raw.githubusercontent.com/daniloderosa/theofficeanalysis/main/plots/That's%20what%20she%20said.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://raw.githubusercontent.com/daniloderosa/theofficeanalysis/main/plots/That's%20what%20she%20said.png', 'blank');"/> 
 
 I think I’m quite pleased with the result.
