@@ -72,7 +72,10 @@ theme_update(
 ```
 
 </details>
-&nbsp;
+
+  &nbsp;
+  
+  
 # Who speaks the most?
 
 Let’s start with some easy stuff: how are the lines distributed between
@@ -421,7 +424,9 @@ pdftools::pdf_convert(pdf = glue::glue("{path}.pdf"),
 ```
 
 </details>
+&nbsp;
 
+  
 <img src="https://raw.githubusercontent.com/daniloderosa/theofficeanalysis/main/plots/That's%20what%20she%20said.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://raw.githubusercontent.com/daniloderosa/theofficeanalysis/main/plots/That's%20what%20she%20said.png', 'blank');"/> 
 
 I think I’m quite pleased with the result.
