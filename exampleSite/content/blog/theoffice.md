@@ -136,7 +136,7 @@ pdftools::pdf_convert(pdf = glue::glue("{path}.pdf"),
 
 </details>
 
- 
+<img src="https://raw.githubusercontent.com/daniloderosa/theofficeanalysis/main/plots/Most_lines_per_season.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://raw.githubusercontent.com/daniloderosa/theofficeanalysis/main/plots/Most_lines_per_season.png', 'blank');"/> 
 
 ![https://github.com/daniloderosa/theofficeanalysis/blob/main/plots/Most_lines_per_season.png](https://raw.githubusercontent.com/daniloderosa/theofficeanalysis/main/plots/Most_lines_per_season.png) 
   Ok, as you’ve probably guessed if
