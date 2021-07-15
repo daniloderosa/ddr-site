@@ -138,7 +138,8 @@ pdftools::pdf_convert(pdf = glue::glue("{path}.pdf"),
 
  
 
-![](https://raw.githubusercontent.com/daniloderosa/theofficeanalysis/main/plots/Most_lines_per_season.png) Ok, as you’ve probably guessed if
+![plots/Most_lines_per_season.png](https://raw.githubusercontent.com/daniloderosa/theofficeanalysis/main/plots/Most_lines_per_season.png) 
+  Ok, as you’ve probably guessed if
 you’re a fan of the series, Michael speaks *a lot*. Almost 1 line every
 3 is said by the World best boss (😉). Andy is the character with most
 lines in season 8, which is reasonable since he becomes the regional
