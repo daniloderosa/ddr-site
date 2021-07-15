@@ -1,7 +1,14 @@
+---
+author: "Danilo De Rosa"
+title: "Analyzing The Office’s dialogues"
+date: 2021-07-15
+description: "An analysis of The Office's dialogues"
+tags: ["data analysis"]
+---
+
 Analyzing The Office’s dialogues
 ================
-Danilo De Rosa
-2021/07/14
+
 
 I stumbled acroos an R package named ‘schrute’ that is basically a
 dataset with all the dialogues in The Office, one of my favourite TV
