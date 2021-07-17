@@ -7,7 +7,7 @@ tags: ["data analysis"]
 ---
 
 
-I stumbled acroos an R package named ‘schrute’ that is basically a
+I stumbled across an R package named ‘schrute’ that is basically a
 dataset with all the dialogues in The Office, one of my favourite TV
 series. So I thought: let’s give it a try!
 
@@ -78,7 +78,7 @@ theme_update(
 # Who speaks the most?
 
 Let’s start with some easy stuff: how are the lines distributed between
-major characters and season?
+major characters and seasons?
 
 <details>
 <summary>
@@ -144,7 +144,7 @@ pdftools::pdf_convert(pdf = glue::glue("{path}.pdf"),
 
   Ok, as you’ve probably guessed if
 you’re a fan of the series, Michael speaks *a lot*. Almost 1 line every
-3 is said by the World best boss (😉). Andy is the character with most
+3 is said by the World's best boss (😉). Andy is the character with most
 lines in season 8, which is reasonable since he becomes the regional
 manager.
 
@@ -155,8 +155,8 @@ Michael is not there).
 
 # Most popular words for each season
 
-Another easy question: which are the most said words? Let’s facet them
-by season, just to add some context. Probably they’re going to be names,
+Another easy question: which are the most said words? Let’s facet (= showing small multiplies charts) them
+by season, just to add some context. Probably they’re going to be just names,
 but maybe we’re going to have some surprise!
 
 <details>
@@ -220,7 +220,7 @@ words](https://datavizs21.classes.andrewheiss.com/example/13-example/#term-frequ
 > is the product of the term frequency and the inverse document
 > frequency
 
-Basically it’s a value that shows - in this case - how much unique is a
+Basically it’s a value that shows - in this case - how unique is a
 word said by a character, relating to the other characters. Just look at
 the chart and you’ll understand.
 
@@ -269,9 +269,9 @@ pdftools::pdf_convert(pdf = glue::glue("{path}.pdf"),
 
 <img src="https://raw.githubusercontent.com/daniloderosa/theofficeanalysis/main/plots/tf_idf.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://raw.githubusercontent.com/daniloderosa/theofficeanalysis/main/plots/tf_idf.png', 'blank');"/> 
 
-Obviously the td-idf doesn’t mean that a word is
+Obviously, the tf-idf doesn’t mean that a word is
 *exclusive* to that character. Instead, it’s useful to see which are the
-strangest words: take for example Ryan and you’ll find *wuphf*, or
+most strange words: take for example Ryan and you’ll find *wuphf*, or
 *awesome* by Kevin. The third most unique word said by Dwight is
 *schrute*, lol.
 
