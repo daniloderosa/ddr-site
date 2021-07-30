@@ -9,7 +9,7 @@ type: about
 
 A glimpse of some dataviz I've realized both for work and for personal fun (often participating in challenges like [#TidyTuesday](https://github.com/rfordatascience/tidytuesday) and [#MakeoverMonday](https://www.makeovermonday.co.uk/)). 
 
-When the title reports that the chart is interactive, you can click on it and check the interactive version on [my Tableau Public's profile](http://public.tableau.com/profile/danilo6525#!/).
+When the title reports that the chart is interactive, you can click on it and check the interactive version on [my Tableau Public's profile](http://public.tableau.com/profile/danilo6525#!/). Clicks on non-interactive charts will open an high-quality version of these charts. So, in any case click 😉
 
 Most of these charts are in italian (my native language): if you're not an italian speaker, I'm really sorry about that. I'm already working on uploading more charts in english. 
 
