@@ -33,7 +33,7 @@ Most of these charts are in italian (my native language): if you're not an itali
 
 ***
 
-### Analyzing The Office’s dialogues [blog post](https://daniloderosa.com/blog/theoffice/)
+### Analyzing The Office’s dialogues [(blog post here)](https://daniloderosa.com/blog/theoffice/)
 
 <img src="https://raw.githubusercontent.com/daniloderosa/theofficeanalysis/main/plots/thats_what_she_said.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://raw.githubusercontent.com/daniloderosa/theofficeanalysis/main/plots/thats_what_she_said.png', 'blank');"/> 
 
