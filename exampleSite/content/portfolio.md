@@ -2,8 +2,8 @@
 author: Danilo De Rosa
 title: Portfolio
 date: 2021-04-24
-description:
-keywords: ["about-us", "about-hugo", "contact"]
+description: My portfolio :) 
+keywords: ["about-me", "contact"]
 type: about
 ---
 
@@ -13,11 +13,39 @@ When the title reports that the chart is interactive, you can click on it and ch
 
 Most of these charts are in italian (my native language): if you're not an italian speaker, I'm really sorry about that. I'm already working on uploading more charts in english. 
 
+***
+
+### TidyTuesday 2021/31 [(code)](https://github.com/daniloderosa/TidyTuesday/blob/main/R/2021_31.Rmd)&nbsp;🏅 Olympics Medal by [Kaggle](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results) (original code for the left chart: [Cédric Sherer](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2021_27))
+
+<img src="https://raw.githubusercontent.com/daniloderosa/TidyTuesday/main/plots/2021_31/2021_OlympicMedals.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://raw.githubusercontent.com/daniloderosa/TidyTuesday/main/plots/2021_31/2021_OlympicMedals.png', 'blank');" /> 
+
+***
+
+### TidyTuesday 2021/30 [(code)](https://github.com/daniloderosa/TidyTuesday/blob/main/R/2021_30.Rmd)&nbsp;👩‍🚒 US Droughts by [Drought Monitor](https://droughtmonitor.unl.edu/DmData/DataDownload.aspx)
+
+<img src="https://raw.githubusercontent.com/daniloderosa/TidyTuesday/main/plots/2021_30/2021_30_Droughts.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://raw.githubusercontent.com/daniloderosa/TidyTuesday/main/plots/2021_30/2021_30_Droughts.png', 'blank');" /> 
+
+***
+
 ### Mr Robot ratings on IMDB (heavily inspired by [Cédric Sherer](https://github.com/z3tt/TidyTuesday/tree/master/plots/2020_12))
 
 ![](https://raw.githubusercontent.com/daniloderosa/mrrobot-ratings/main/MrRobot.png)
 
 ***
+
+### Analyzing The Office’s dialogues [blog post](https://daniloderosa.com/blog/theoffice/)
+
+<img src="https://raw.githubusercontent.com/daniloderosa/theofficeanalysis/main/plots/thats_what_she_said.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://raw.githubusercontent.com/daniloderosa/theofficeanalysis/main/plots/thats_what_she_said.png', 'blank');"/> 
+
+<img src="https://raw.githubusercontent.com/daniloderosa/theofficeanalysis/main/plots/Most_lines_per_season.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://raw.githubusercontent.com/daniloderosa/theofficeanalysis/main/plots/Most_lines_per_season.png', 'blank');"/> 
+
+<img src="https://raw.githubusercontent.com/daniloderosa/theofficeanalysis/main/plots/Most_cited_words.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://raw.githubusercontent.com/daniloderosa/theofficeanalysis/main/plots/Most_cited_words.png', 'blank');"/> 
+
+<img src="https://raw.githubusercontent.com/daniloderosa/theofficeanalysis/main/plots/tf_idf.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://raw.githubusercontent.com/daniloderosa/theofficeanalysis/main/plots/tf_idf.png', 'blank');"/> 
+
+<img src="https://raw.githubusercontent.com/daniloderosa/theofficeanalysis/main/plots/Sentiment.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://raw.githubusercontent.com/daniloderosa/theofficeanalysis/main/plots/Sentiment.png', 'blank');"/> 
+
+*** 
 
 ### Emission of PM10 during 2020 in Friuli-Venezia Giulia (*interactive*)
 
