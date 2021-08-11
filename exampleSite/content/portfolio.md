@@ -15,7 +15,13 @@ Most of these charts are in italian (my native language): if you're not an itali
 
 ***
 
-### TidyTuesday 2021/31 [(code)](https://github.com/daniloderosa/TidyTuesday/blob/main/R/2021_31.Rmd)&nbsp;🏅 Olympics Medal by [Kaggle](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results) (original code for the left chart: [Cédric Sherer](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2021_27))
+### TidyTuesday 2021/32 [(code)](https://github.com/daniloderosa/TidyTuesday/blob/main/R/2021_32.Rmd)&nbsp;🏅 Paralympics Medals by [IPC](https://www.paralympic.org/feature/1964-1988-it-was-all-about-zipora-rubin-rosenbaum-s-dominance)
+
+<img src="https://raw.githubusercontent.com/daniloderosa/TidyTuesday/main/plots/2021_32/2021_ParalympicMedals.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://raw.githubusercontent.com/daniloderosa/TidyTuesday/main/plots/2021_32/2021_ParalympicMedals.png', 'blank');" /> 
+
+***
+
+### TidyTuesday 2021/31 [(code)](https://github.com/daniloderosa/TidyTuesday/blob/main/R/2021_31.Rmd)&nbsp;🏅 Olympics Medals by [Kaggle](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results) (original code for the left chart: [Cédric Sherer](https://github.com/Z3tt/TidyTuesday/tree/master/plots/2021_27))
 
 <img src="https://raw.githubusercontent.com/daniloderosa/TidyTuesday/main/plots/2021_31/2021_OlympicMedals.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://raw.githubusercontent.com/daniloderosa/TidyTuesday/main/plots/2021_31/2021_OlympicMedals.png', 'blank');" /> 
 
