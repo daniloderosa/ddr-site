@@ -23,7 +23,7 @@ title = "Danilo De Rosa"
 
 [params.homepage.resume]
   skills = ["Data visualization", "Data analysis", "Data journalism", "Workshops"]
-  software = ["R (RStudio)", "Tableau", "D3", "Datawrapper", "QGIS", "Adobe Illustrator"]
+  software = ["R", "Tableau", "D3", "Datawrapper", "QGIS", "Adobe Illustrator"]
 
 [params.homepage.social]
   twitter = "https://twitter.com/DaniloDeRosa96"
