@@ -15,6 +15,12 @@ Most of these charts are in italian (my native language): if you're not an itali
 
 ***
 
+### TidyTuesday 2021/33 [(code)](https://github.com/daniloderosa/TidyTuesday/blob/main/R/2021_33.Rmd)&nbsp;💵 BEA Infrastructure Investments by [BEA](https://www.bea.gov/system/files/papers/BEA-WP2020-12.pdf)
+
+<img src="https://raw.githubusercontent.com/daniloderosa/TidyTuesday/main/plots/2021_33/2021_BEAInfrastructureInvestments.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://raw.githubusercontent.com/daniloderosa/TidyTuesday/main/plots/2021_33/2021_BEAInfrastructureInvestments.png', 'blank');" />
+
+***
+
 ### TidyTuesday 2021/32 [(code)](https://github.com/daniloderosa/TidyTuesday/blob/main/R/2021_32.Rmd)&nbsp;🏅 Paralympics Medals by [IPC](https://www.paralympic.org/feature/1964-1988-it-was-all-about-zipora-rubin-rosenbaum-s-dominance)
 
 <img src="https://raw.githubusercontent.com/daniloderosa/TidyTuesday/main/plots/2021_32/2021_ParalympicMedals.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://raw.githubusercontent.com/daniloderosa/TidyTuesday/main/plots/2021_32/2021_ParalympicMedals.png', 'blank');" /> 
