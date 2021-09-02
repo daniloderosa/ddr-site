@@ -15,6 +15,12 @@ Most of these charts are in italian (my native language): if you're not an itali
 
 ***
 
+### TidyTuesday 2021/35 [(code)](https://github.com/daniloderosa/TidyTuesday/blob/main/R/2021_35.Rmd)&nbsp;🐒 Lemurs by [Kaggle](https://www.nature.com/articles/sdata201419)
+
+<img src="https://raw.githubusercontent.com/daniloderosa/TidyTuesday/main/plots/2021_35//2021_Lemurs.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://raw.githubusercontent.com/daniloderosa/TidyTuesday/main/plots/2021_35//2021_Lemurs.png', 'blank');" />
+
+***
+
 ### TidyTuesday 2021/33 [(code)](https://github.com/daniloderosa/TidyTuesday/blob/main/R/2021_33.Rmd)&nbsp;💵 BEA Infrastructure Investments by [BEA](https://www.bea.gov/system/files/papers/BEA-WP2020-12.pdf)
 
 <img src="https://raw.githubusercontent.com/daniloderosa/TidyTuesday/main/plots/2021_33/2021_BEAInfrastructureInvestments.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://raw.githubusercontent.com/daniloderosa/TidyTuesday/main/plots/2021_33/2021_BEAInfrastructureInvestments.png', 'blank');" />
