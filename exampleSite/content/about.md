@@ -19,7 +19,7 @@ Besides working as a freelance, I enjoy spending some time participating in data
 
 #### Favourite tools
 
-The tools that I use the most are R and Tableau Public, although I'm starting to experiment a little more with D3.js. Usually when I do stuff with R (using RStudio and the big universe of tidyverse, including ggplot2) I'll post the code on my [GitHub profile](https://github.com/daniloderosa); here's [my profile on Tableau Public](http://public.tableau.com/profile/danilo6525#!/). Depending on what I'm doing, I also tend to use Datawrapper, Flourish, QGIS and Adobe Illustrator. 
+The tools that I use the most are R and Tableau Public, although I'm starting to experiment a little more with D3.js. Usually when I do stuff with R (using RStudio and the big universe of tidyverse, including ggplot2) I'll post the code on my [GitHub profile](https://github.com/daniloderosa); here's [my profile on Tableau Public](http://public.tableau.com/profile/danilo6525#!/). Depending on what I'm doing, I also tend to use Datawrapper, Flourish, QGIS and Adobe Illustrator. I also know HTML, CSS and JS, plus a little bit (just a little) of node.js, SQL and mondoDB.
 
 ### Personal info 
 
