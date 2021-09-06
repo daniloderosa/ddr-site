@@ -3,17 +3,17 @@
   <div class="grid grid-cols-2 gap-8">
     <!-- Skills -->
     <div>
-      <div class="text-3xl font-semibold mb-8 text-center">What I do</div>
+      <div class="text-3xl font-semibold mb-8">What I do</div>
       {{ range .Site.Params.homepage.resume.skills}}
-      <div class="text-xl font-light my-2 text-center">{{.}}</div>
+      <div class="text-xl font-light my-2">{{.}}</div>
       {{end}}
     </div>
 
     <!-- Software -->
     <div>
-      <div class="text-3xl font-semibold mb-8 text-center">What I use</div>
+      <div class="text-3xl font-semibold mb-8">What I use</div>
       {{ range .Site.Params.homepage.resume.software}}
-      <div class="text-xl font-light my-2 text-center">{{.}}</div>
+      <div class="text-xl font-light my-2">{{.}}</div>
       {{end}}
     </div>
   </div>
