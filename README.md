@@ -1,4 +1,23 @@
-# ShowFolio theme for Hugo
+# Code for my site
+
+My site is built with Hugo and Showfolio, a theme designed by [Varun A P](https://github.com/apvarun) that you can find [here](https://github.com/apvarun/showfolio-hugo-theme). 
+
+Below you can find the original readme file of his Showfolio theme, which I strongly suggest to check on GitHub (again, the link is [this](https://github.com/apvarun/showfolio-hugo-theme)).
+
+***
+***
+***
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+
+
+# Showfolio theme
+
 
 ![Latest Release](https://img.shields.io/github/tag/apvarun/showfolio-hugo-theme.svg)
 ![ShowFolio hugo theme](https://img.shields.io/github/license/apvarun/showfolio-hugo-theme)
