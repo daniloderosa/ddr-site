@@ -7,7 +7,7 @@ keywords: ["about-me", "contact"]
 type: about
 ---
 
-A glimpse of some dataviz I've realized both for work and for personal fun (often participating in challenges like [#TidyTuesday](https://github.com/rfordatascience/tidytuesday) and [#MakeoverMonday](https://www.makeovermonday.co.uk/)). 
+A glimpse of some data visualizations I've realized both for work and for personal fun (often participating in challenges like [#TidyTuesday](https://github.com/rfordatascience/tidytuesday) and [#MakeoverMonday](https://www.makeovermonday.co.uk/)). 
 
 When the title reports that the chart is interactive, you can click on it and check the interactive version on [my Tableau Public's profile](http://public.tableau.com/profile/danilo6525#!/). Clicks on non-interactive charts will open an high-quality version of these charts. So, in any case click 😉
 
@@ -71,7 +71,7 @@ Most of these charts are in italian (my native language): if you're not an itali
 
 *** 
 
-### Emission of PM10 during 2020 in Friuli-Venezia Giulia (*interactive*)
+### Emissions of PM10 during 2020 in Friuli-Venezia Giulia (*interactive*)
 
 <img src="https://raw.githubusercontent.com/daniloderosa/ddr-site/main/images/1-emissioni.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://public.tableau.com/app/profile/danilo6525/viz/AndamentodelleemissionidiPM10inFVG/Dashboard3', 'blank');" /> 
 
