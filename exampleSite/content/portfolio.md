@@ -128,3 +128,9 @@ Most of these charts are in italian (my native language): if you're not an itali
 ### % of vaccinated in Friuli-Venezia Giulia (July 2021)
 
 ![](https://raw.githubusercontent.com/daniloderosa/ddr-site/main/images/10-pop_vaccinata.png)
+
+***
+
+Test 
+
+<iframe title="Le terapie intensive in FVG" aria-label="Grafico a colonne" id="datawrapper-chart-17TwA" src="https://datawrapper.dwcdn.net/17TwA/6/" scrolling="no" frameborder="0" style="border: none;" width="600" height="405"></iframe>
